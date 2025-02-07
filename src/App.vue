@@ -7,7 +7,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import Buraha from '@/components/Buraha.vue';
+import Buraha from './components/Buraha.vue';
 
 const hash = ref('');
 </script>
